@@ -1,6 +1,10 @@
 # 💫 About Me:
 👋 Hi, I'm Shahriar.<br><br>I am a dedicated Software Engineering student with a strong academic foundation and hands-on experience in building practical, database-driven web applications. My primary expertise lies in C, C++, and Java, with a strong focus on backend development using Spring Boot and relational database systems such as PostgreSQL and Oracle. I enjoy designing clean system architectures, developing RESTful APIs, and implementing structured, scalable solutions that solve real-world problems. Throughout my academic journey, I have developed several impactful projects, including **DIU BloodLink**, a university-based blood donation web application designed to efficiently connect donors and recipients through a structured backend and secure database system; **SmarRent**, a car rental web platform built to streamline booking and vehicle management with organized backend logic and optimized database operations; and **Weatherify**, a weather forecast application that integrates external APIs to deliver real-time weather updates with efficient data handling. I am continuously improving my knowledge in object-oriented programming, system design principles, and database optimization, with the goal of becoming a highly skilled backend engineer capable of building reliable and scalable software systems.
 
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/ShahriarXProxima/ShahriarXProxima/blob/output/github-contribution-grid-snake-dark.svg)
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/proximaXshahriar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shahriarxproximalog1@gmail.com) 
